@@ -7,7 +7,7 @@ function Home() {
   const router = useRouter();
 
   const handleNavigate = () => {
-    router.push('./Calculadora');
+    router.push('./TimeCalculator');
   };
 
   return (

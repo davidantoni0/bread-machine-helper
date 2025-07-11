@@ -2,6 +2,10 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Alert
+
+This project was made to work on android devices, other platforms are not supported.
+
 ## Get started
 
 1. Install dependencies
@@ -14,6 +18,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
    npx expo start
+
+   or
+
+   npx expo start --tunnel
    ```
 
 In the output, you'll find options to open the app in a
